@@ -1,0 +1,74 @@
+1662214509785	geckodriver	INFO	Listening on 127.0.0.1:64367
+1662214687869	geckodriver	INFO	Listening on 127.0.0.1:65442
+1662214688389	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65443" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lz/cyk7hb953515ccdr7r95yv7r0000gn/T/rust_mozprofileJWDKEW"
+2022-09-03 17:18:08.693 plugin-container[28037:539622] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 17:18:08.693 plugin-container[28037:539622] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-03 17:18:08.697 plugin-container[28037:539622] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 17:18:08.697 plugin-container[28037:539622] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-03 17:18:08.697 plugin-container[28037:539620] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-03 17:18:08.697 plugin-container[28037:539620] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1662214688697	Marionette	INFO	Marionette enabled
+1662214688714	Marionette	INFO	Listening on port 65453
+Read port: 65453
+WebDriver BiDi listening on ws://localhost:65443
+1662214688844	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lz/cyk7hb953515ccdr7r95yv7r0000gn/T/rust_mozprofileJWDKEW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:65443/devtools/browser/ad67b6c1-0bcf-4af3-8386-1266d444a5f6
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1660299070, line 6289: unreachable code after return statement
+JavaScript error: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1660299070, line 6105: Error: Expected: '<assignment:568645>' to be present in the adapter provided payload, but it was not found.
+1662214706476	Marionette	INFO	Stopped listening on port 65453
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1662317316109	geckodriver	INFO	Listening on 127.0.0.1:49858
+1662317316624	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49859" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lz/cyk7hb953515ccdr7r95yv7r0000gn/T/rust_mozprofilePsWfnn"
+1662317317197	Marionette	INFO	Marionette enabled
+1662317317216	Marionette	INFO	Listening on port 49870
+2022-09-04 21:48:37.219 plugin-container[1465:13692] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-04 21:48:37.219 plugin-container[1465:13692] nil host used in call to allowsAnyHTTPSCertificateForHost:
+WebDriver BiDi listening on ws://localhost:49859
+Read port: 49870
+2022-09-04 21:48:37.266 plugin-container[1465:13692] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-04 21:48:37.266 plugin-container[1465:13692] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-04 21:48:37.266 plugin-container[1465:13690] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-04 21:48:37.266 plugin-container[1465:13690] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1662317317306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lz/cyk7hb953515ccdr7r95yv7r0000gn/T/rust_mozprofilePsWfnn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49859/devtools/browser/5a25ff75-37e4-4fec-a653-db3816cab090
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1662317319342	Marionette	INFO	Stopped listening on port 49870
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1662317395663	geckodriver	INFO	Listening on 127.0.0.1:49987
+1662317395668	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "49988" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lz/cyk7hb953515ccdr7r95yv7r0000gn/T/rust_mozprofileNNKVMY"
+2022-09-04 21:49:55.918 plugin-container[1528:14658] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-04 21:49:55.918 plugin-container[1528:14658] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-04 21:49:55.923 plugin-container[1528:14658] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-04 21:49:55.923 plugin-container[1528:14658] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-04 21:49:55.923 plugin-container[1528:14663] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-04 21:49:55.923 plugin-container[1528:14663] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1662317395927	Marionette	INFO	Marionette enabled
+1662317395945	Marionette	INFO	Listening on port 49993
+WebDriver BiDi listening on ws://localhost:49988
+Read port: 49993
+1662317396025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lz/cyk7hb953515ccdr7r95yv7r0000gn/T/rust_mozprofileNNKVMY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49988/devtools/browser/86343293-752f-4b4a-96d6-8bad98f9f63b
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1662317398024	Marionette	INFO	Stopped listening on port 49993
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+1662317419994	geckodriver	INFO	Listening on 127.0.0.1:50046
+1662317419998	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "50047" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/lz/cyk7hb953515ccdr7r95yv7r0000gn/T/rust_mozprofileFKHxCi"
+2022-09-04 21:50:20.213 plugin-container[1600:15195] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-04 21:50:20.213 plugin-container[1600:15195] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-04 21:50:20.216 plugin-container[1600:15195] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-04 21:50:20.216 plugin-container[1600:15195] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-09-04 21:50:20.216 plugin-container[1600:15197] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-09-04 21:50:20.216 plugin-container[1600:15197] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1662317420220	Marionette	INFO	Marionette enabled
+1662317420235	Marionette	INFO	Listening on port 50052
+WebDriver BiDi listening on ws://localhost:50047
+Read port: 50052
+1662317420367	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/lz/cyk7hb953515ccdr7r95yv7r0000gn/T/rust_mozprofileFKHxCi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50047/devtools/browser/a14e75e8-3c3a-4cc8-ad55-78a1e88847e5
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1662317422250	Marionette	INFO	Stopped listening on port 50052
